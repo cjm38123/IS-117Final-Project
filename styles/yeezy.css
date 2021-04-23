@@ -1,0 +1,58 @@
+html{
+    background: white;
+}
+
+.container-fluid{
+    background-color: white;
+}
+
+.navbar-custom{
+    background-color: white;
+}
+.navbar-brand p {
+    color: black;
+}
+a.nav-link{
+    color:black;
+    font-size: 40px;
+    text-align: center;
+}
+.dropdown-menu a {
+    font-size: 30px;
+}
+#card-container{
+    position: relative;
+    min-height: 100px;
+}
+
+p{
+    text-align: left;
+    font-size: 20px;
+}
+
+.row{
+    padding: 3rem;
+}
+
+#cards{
+    padding: 5rem;
+}
+.card-deck{
+    padding-top: 2rem;
+}
+
+h1{
+    text-align: center;
+}
+footer {
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    background-color: lightgrey;
+    height: 3em;
+    padding-top: 10px;
+    font-size: 20px;
+    border-top: 1px solid black;
+    left: 0;
+    bottom: 0;
+}
